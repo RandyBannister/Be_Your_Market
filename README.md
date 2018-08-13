@@ -1,2 +1,5 @@
-# Be_Your_Market
-OpenSource ASP.NET to build your own marketplace
+## BeYourMarket
+
+## License ##
+
+BeYourMarket is open source under MIT license. See [LICENSE](LICENSE) file for details.
